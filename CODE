@@ -1,0 +1,11 @@
+ body {
+  background-color: #f2f2f2;
+}
+custom-div {
+  background-color: #ffffff;
+  color: #333333;
+  padding: 20px;
+}
+ <div class="custom-div">
+  <!-- Your content here -->
+</div>
